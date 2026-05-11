@@ -93,14 +93,11 @@ Maxane's AI Content Generator is an AI-powered image creation studio designed to
 - Curated prompt library across five categories: Product, Social Media, Branding, Creative Art, and Marketing.
 - One-click download of generated images as PNG. 
   
-🔗 
 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKHETHWA1&show_icons=true&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKHETHWA1&theme=tokyonight" />
