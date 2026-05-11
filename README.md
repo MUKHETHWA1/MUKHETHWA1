@@ -82,9 +82,18 @@ Custom AI assistant using:
 AI Budget Assistant Chatbot:
 - Voiceflow (chatbot design and flow)
 - Gemini API
+  
 🔗 https://github.com/Data-Mafias/AI-Budget-Assistant
 
 ---
+
+### AI Content Generator 
+Maxane's AI Content Generator is an AI-powered image creation studio designed to help creators, marketers, and brand teams produce stunning visuals from a simple text description. 
+- AI image generation from natural-language prompts.
+- Curated prompt library across five categories: Product, Social Media, Branding, Creative Art, and Marketing.
+- One-click download of generated images as PNG. 
+  
+🔗 
 
 
 ## 📊 GitHub Stats
