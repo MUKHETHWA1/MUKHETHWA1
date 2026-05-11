@@ -26,14 +26,14 @@
 ## 🌐 Live Projects
 
 ### 🏢 CWC Pretoria
-Professional Church website developed and deployed for a client.
+Designed and developed the official church website to improve online presence and community engagement 
 
 🔗 https://cwcpretoria.co.za
 
 ---
 
 ### 🏗️ MTD Supply & Projects
-Construction and supply company website with responsive modern design.
+Professional intercom systems, ceiling speakers, and surveillance camera installations that enhance safety, communication, and sound in both residential and commercial environments.
 
 🔗 https://mtdsupplyandprojects.co.za
 
