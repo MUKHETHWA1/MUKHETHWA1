@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukhethwa Magadani</h1>
 <h3 align="center">Full Stack Developer | ASP.NET MVC Developer | Android Developer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+MVC+Developer;Android+Developer;Azure+Cloud+Enthusiast;Hackathon+Winner+🏆" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
