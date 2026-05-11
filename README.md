@@ -78,6 +78,15 @@ Custom AI assistant using:
 
 ---
 
+### 🤖 AI Chatbot
+AI Budget Assistant Chatbot:
+- Voiceflow (chatbot design and flow)
+- Gemini API
+🔗 https://github.com/Data-Mafias/AI-Budget-Assistant
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -91,13 +100,6 @@ Custom AI assistant using:
 ---
 
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUKHETHWA1&theme=tokyo-night" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
