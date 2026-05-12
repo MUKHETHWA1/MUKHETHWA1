@@ -149,6 +149,9 @@ Weather forecasting application displaying:
 
 **Tech Used:** JavaScript / API Integration / Android
 
+🔗 Link:  
+https://weatheremmit.netlify.app/
+
 ---
 
 ### 🏦 Bank Mobile Application
