@@ -92,7 +92,94 @@ Maxane's AI Content Generator is an AI-powered image creation studio designed to
 - AI image generation from natural-language prompts.
 - Curated prompt library across five categories: Product, Social Media, Branding, Creative Art, and Marketing.
 - One-click download of generated images as PNG. 
-  
+
+---
+
+### 🏦 Online Banking System
+Console-based banking system where users can:
+- Register & Login
+- Check Balance
+- Deposit Funds
+- Withdraw Funds
+- Access Banking Features Securely
+
+🔗 Demo:  
+https://drive.google.com/file/d/1_hzVywRI1AVYxauuc7dxtMRLFX-kZciL/view?usp=sharing
+
+🔗 GitHub:  
+https://github.com/MUKHETHWA1/Online_Bank_Sytem
+
+**Tech Used:** C#
+
+---
+
+### 🗳️ Voting System Application
+Console voting application allowing users to:
+- Vote for parties
+- View vote percentages
+- Access latest news updates
+- Secure voting using ID Number & First Name
+
+🔗 Demo:  
+https://drive.google.com/file/d/1YrkxJxYVDEYlXCp1kTfiob-GG2aN-J-I/view?usp=sharing
+
+**Tech Used:** C#
+
+---
+
+### ✅ To Do List Mobile App
+Mobile application for managing:
+- Tasks
+- Categories
+- Stored Items
+- Easy Item Viewing
+
+Designed with a simple and user-friendly interface.
+
+**Tech Used:** Android Studio, Java/Kotlin
+
+---
+
+### 🌦️ Weather Application
+Weather forecasting application displaying:
+- Real-time weather updates
+- Temperature
+- Weather conditions
+- User-friendly weather interface
+
+**Tech Used:** JavaScript / API Integration / Android
+
+---
+
+### 🏦 Bank Mobile Application
+Mobile banking application featuring:
+- User Registration
+- Login Authentication
+- Balance Checking
+- Deposits & Withdrawals
+- Fund Transfers
+- Transaction History
+
+🔗 GitHub:  
+https://github.com/Marcus078/MyFinanceApp
+
+**Tech Used:** Android Studio, Firebase, Java/Kotlin
+
+---
+
+
+
+### 🍳 Recipe Management Application
+Console-based recipe management system with features including:
+- Add Recipes
+- Display Recipes
+- Scale Quantities
+- Reset Quantities
+- Clear Recipe Data
+
+**Tech Used:** C#
+
+---
 
 
 ## 📊 GitHub Stats
