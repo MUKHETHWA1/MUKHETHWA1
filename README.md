@@ -184,6 +184,87 @@ Console-based recipe management system with features including:
 
 ---
 
+# 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Certified-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Learning-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Cloud Certifications
+
+### 🧠 Artificial Intelligence Fundamentals — IBM
+- Artificial Intelligence concepts
+- Machine Learning fundamentals
+- AI problem-solving concepts
+
+---
+
+### 🌐 Introduction to Modern AI — Cisco
+- Modern AI technologies
+- AI applications
+- Artificial Intelligence foundations
+
+---
+
+### ☁️ Introduction to Generative AI — Google Cloud
+- Generative AI concepts
+- AI tools & models
+- Prompt-based AI systems
+
+---
+
+### ✍️ Generative AI: Prompt Engineering Basics — IBM
+- Prompt engineering techniques
+- AI communication optimization
+- LLM interaction fundamentals
+
+---
+
+### 🤖 Introduction to Artificial Intelligence (AI) — IBM
+- AI fundamentals
+- AI applications in software systems
+- Intelligent systems overview
+
+---
+
+### 🌍 AI For Everyone — DeepLearning.AI
+- AI in business and technology
+- Real-world AI implementation
+- AI transformation concepts
+
+---
+
+## 💻 Programming Certifications
+
+### 🔷 Foundational C# with Microsoft — freeCodeCamp
+- C# fundamentals
+- Object-Oriented Programming
+- .NET basics
+
+---
+
+### ⚡ C# (Basic) — HackerRank
+- Problem solving with C#
+- Programming logic
+- Data handling & algorithms
+
+---
+
+## 🚀 Currently Expanding Skills In
+
+```diff
++ ASP.NET MVC
++ Azure Cloud Services
++ Firebase
++ AI Chatbots
++ Android Development
++ Full Stack Web Development
+```
+
 
 ## 📊 GitHub Stats
 
