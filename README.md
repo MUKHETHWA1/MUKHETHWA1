@@ -93,8 +93,25 @@ Maxane's AI Content Generator is an AI-powered image creation studio designed to
 - Curated prompt library across five categories: Product, Social Media, Branding, Creative Art, and Marketing.
 - One-click download of generated images as PNG. 
 
+🔗 Coming Soon
+
 ---
 
+### sentiment Analysis Dashboard
+
+---
+
+
+### MedAssist AI Healthcare Assistant Portal
+MedAssist is an intelligent, high-contrast healthcare assistant platform designed to automate initial patient support, perform rapid symptom triage assessments, coordinate scheduling, and answer common health inquiries.
+- Patient Portal: Complete personalized dashboard tracking active appointments, historical triage checkups, and diagnostic history.
+- Clinician / Admin Portal**: An enterprise analytics panel tracking patient registries, master schedules, triage distributions (low, medium, high, emergency), and adding live clinical commentator notes.
+- AI-Powered Symptom Checker & Emergency Triage: Captures age, sex, and detailed symptom expressions.
+- Emergency Warning: Pre-emptively analyzes symptoms for critical red flags
+
+🔗 Coming Soon
+
+---
 ### 🏦 Online Banking System
 Console-based banking system where users can:
 - Register & Login
