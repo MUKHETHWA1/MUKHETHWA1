@@ -98,9 +98,14 @@ Maxane's AI Content Generator is an AI-powered image creation studio designed to
 ---
 
 ### sentiment Analysis Dashboard
+SentiScope is an AI-powered sentiment analysis dashboard that interprets text data using advanced natural language processing.
+- Multi-Text Analysis — Analyze up to 25 texts at once.
+- Sentiment Classification — Categorizes each text as Positive, Negative, Neutral, or Mixed.
+- Emotion Detection — Identifies emotions such as Joy, Anger, Sadness, Fear, Surprise, Trust, Anticipation, and Disgust.
 
----
+🔗 https://sentimentanalysisdash.netlify.app/
 
+-----
 
 ### MedAssist AI Healthcare Assistant Portal
 MedAssist is an intelligent, high-contrast healthcare assistant platform designed to automate initial patient support, perform rapid symptom triage assessments, coordinate scheduling, and answer common health inquiries.
@@ -109,7 +114,7 @@ MedAssist is an intelligent, high-contrast healthcare assistant platform designe
 - AI-Powered Symptom Checker & Emergency Triage: Captures age, sex, and detailed symptom expressions.
 - Emergency Warning: Pre-emptively analyzes symptoms for critical red flags
 
-🔗 Coming Soon
+🔗 https://mukhethwamediassist.netlify.app/
 
 ---
 ### 🏦 Online Banking System
