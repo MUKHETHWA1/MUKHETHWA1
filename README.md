@@ -57,6 +57,21 @@ Professional intercom systems, ceiling speakers, and surveillance camera install
 ## 📱 Featured Projects
 
 
+### DeskFlow - Internal IT Service Request Portal
+DeskFlow, a streamlined internal ticketing system used by employees to report technical issues and IT administrators to manage resolutions.
+
+Features:
+- User Authentication: JWT-based authentication with role-based access
+- Role-Based Views: Employee and Admin dashboards with different permissions
+- Ticket Management: Create, view, and update ticket status
+- Responsive UI: Works on desktop and mobile devices
+- API Documentation: Swagger/OpenAPI documentation
+- Real-time Updates: Instant feedback with toast notifications
+
+🔗 Coming Soon
+
+---
+
 ### 🍔 Smart Cafeteria Ordering App
 Android app allowing students to order food and skip queues.
 
@@ -97,7 +112,7 @@ Maxane's AI Content Generator is an AI-powered image creation studio designed to
 
 ---
 
-### sentiment Analysis Dashboard
+### Sentiment Analysis Dashboard
 SentiScope is an AI-powered sentiment analysis dashboard that interprets text data using advanced natural language processing.
 - Multi-Text Analysis — Analyze up to 25 texts at once.
 - Sentiment Classification — Categorizes each text as Positive, Negative, Neutral, or Mixed.
