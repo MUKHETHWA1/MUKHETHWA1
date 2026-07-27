@@ -68,7 +68,7 @@ Features:
 - API Documentation: Swagger/OpenAPI documentation
 - Real-time Updates: Instant feedback with toast notifications
 
-🔗 Coming Soon
+🔗 https://deskflowproject.netlify.app/
 
 ---
 
