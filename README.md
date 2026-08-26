@@ -56,6 +56,24 @@ Professional intercom systems, ceiling speakers, and surveillance camera install
 
 ## 📱 Featured Projects
 
+### OpenEx 3.0 - Simulated Crypto Exchange & AI Trading Terminal
+A lightweight, simulated crypto exchange built as three services - a Kotlin/Spring Boot backend, a React trading terminal, and a Python/Flask microservice that runs a local (Ollama) AI trading assistant.
+
+Features:
+- Double-Entry Ledger - Immutable accounting with CREDIT/DEBIT entries
+- Price-Time Priority Matching Engine - Fair order matching
+- Limit & Market Orders - Both order types supported
+- JWT Authentication - Stateless token-based authentication
+- WebSocket Updates - Live order book broadcasting
+- Trade Feed - Real-time trade execution notifications
+- Price Ticker - Live price updates
+- Local LLM Integration - Ollama with Llama 3.2, LangChain Framework - Tool-calling capabilities, Market Data Tools - AI can fetch market information
+- Technical Indicators - RSI, Moving Averages, Bollinger Bands
+
+🔗 https://github.com/MUKHETHWA1/openex-3.0
+
+---
+
 
 ### DeskFlow - Internal IT Service Request Portal
 DeskFlow, a streamlined internal ticketing system used by employees to report technical issues and IT administrators to manage resolutions.
