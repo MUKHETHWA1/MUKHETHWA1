@@ -90,6 +90,23 @@ Features:
 
 ---
 
+### TrustLedger AI
+Real-time procurement transparency and fraud prevention platform for public-sector tenders, built to make South African government procurement auditable end-to-end from tender publication through supplier vetting, bidding, invoicing, and payment.
+
+Built for the Naspers Labs Youth Month 2026 AI for Good Hackathon (semi-finalist).
+
+Features:
+- Dashboard — real-time overview of tenders, suppliers, bids, and flagged invoices
+- Tenders — publish and track public procurement opportunities and budgets
+- Suppliers — vet suppliers against simulated Central Supplier Database (CSD) status, SARS tax compliance, B-BBEE level, and beneficial-ownership disclosure, with a computed risk score
+- Bids — capture and score supplier bids against price and preference points
+- Fraud detection — Gemini-powered forensic analysis flags overpricing, double claims, and dummy quotes, producing a risk report per invoice
+- Invoices — OCR-parse uploaded tax invoices (Tesseract) and cross-check line items against market benchmark pricing
+
+🔗 https://github.com/drico999/trustledger-ai
+
+---
+
 ### 🍔 Smart Cafeteria Ordering App
 Android app allowing students to order food and skip queues.
 
