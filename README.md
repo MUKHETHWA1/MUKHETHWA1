@@ -118,6 +118,8 @@ Features:
 
 🏆 Built during the Rosebank College Pretoria Hackathon.
 
+🔗 https://github.com/MUKHETHWA1/Hackathon
+
 ---
 
 ### 🤖 AI Chat Assistant
